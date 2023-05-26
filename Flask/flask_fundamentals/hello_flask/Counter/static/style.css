@@ -1,0 +1,36 @@
+* {
+    font-family: sans-serif;
+  }
+  .container{
+    width: 30%;
+    margin: auto;
+    height: 250px;
+    border: 0.1ex solid;
+
+  }
+  .userdiv{
+    margin-top: 30px;
+    margin-left: 70px;
+  }
+  .in{
+    width: 30px;
+  }
+
+  a:link,
+  a:visited {
+    text-decoration: none;
+    border: 2px solid black;
+    color: black;
+    background-color: pink;
+    width: 45px;
+    height: 40px;
+    text-align: center;
+    margin-left: 80px;
+    border-radius: 7px;
+    margin-bottom: 30px;
+   
+  }
+  p,
+  h1 {
+    text-align: center;
+  }
