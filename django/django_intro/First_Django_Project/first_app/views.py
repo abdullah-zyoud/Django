@@ -32,4 +32,4 @@ def destroy(request , number):
     return redirect("/blogs")
 
 def json(request , number):
-    return HttpResponse(f"placeholder to edit blog {number}")
+    return HttpResponse(f"placeholdeer to edit blog {number}")
